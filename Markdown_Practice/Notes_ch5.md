@@ -8,7 +8,7 @@
 	`git clone <url>`
 - Check file status:
 	`git status`
-- Add files so Git will track them, *AND* to add (stage) changes to be committed (same command for both, but need to run twice):
+- Add files so Git will track them, *AND* to add (stage) changes to be committed (same command for both):
 	`git add <filename>` or `git add .` to add all.
 	- Check that these files were added successfully using `git status`.
 - Make a version (commit)
